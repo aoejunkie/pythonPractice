@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 31 20:49:08 2018
 
-@author: Jeremy
+@author: aoe
 """
 
 '''If you run a 10 kilometer race in 42 minutes and 42 seconds,
